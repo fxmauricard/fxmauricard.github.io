@@ -1,14 +1,38 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+# François-Xavier MAURICARD
+## Project Manager & Tech Lead at Accenture
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### About Me
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+🧠 With nearly **20 years of experience in software development**, I have developed deep expertise in creating and modernizing custom applications, primarily in the **insurance and banking sectors**.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+🚀 Throughout my career, I have led **complex technical and functional refactoring projects**, cloud migrations, and security enhancement initiatives. I thrive at the intersection of business requirements and technical constraints, firmly believing that collaboration between multidisciplinary teams is the key to achieving strategic objectives.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+🎯 **My focus**: Fostering team cohesion and performance while ensuring efficient software production and sustainable quality of deliverables.
+
+### Key Expertise
+
+**Leadership & Management**
+- Leading technical teams and driving project delivery
+- Bridging business needs with technical solutions
+- Fostering collaboration across multidisciplinary profiles
+- Ensuring code quality and sustainable software practices
+
+**Technical Skills**
+- Software architecture and design
+- Cloud migration strategies
+- Security reinforcement and best practices
+- Technical and functional refactoring
+- Custom application development
+
+**Industries**
+- Insurance sector expertise
+- Banking and financial services
+- Enterprise software solutions
+
+### Location
+📍 Strasbourg area, France
+
+### Connect
+
+- 💻 GitHub: [@fxmauricard](https://github.com/fxmauricard/)
+- 💼 LinkedIn: [François-Xavier MAURICARD](https://www.linkedin.com/in/fxmauricard)
